@@ -1,3 +1,5 @@
+Edit: App is completed and deployed at https://friendlyeats-diamond.web.app/
+
 # FriendlyEats (Web)
 
 ## Introduction
