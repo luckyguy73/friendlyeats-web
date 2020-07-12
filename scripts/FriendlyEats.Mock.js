@@ -62,7 +62,7 @@ FriendlyEats.prototype.addMockRatings = function(restaurantID) {
   var ratingPromises = [];
   for (var r = 0; r < 5*Math.random(); r++) {
     var rating = this.data.ratings[
-      parseInt(this.data.ratings.length*Math.random())
+      parseInt(this.data.ratings.length * Math.random())
     ];
     rating.userName = 'Bot (Web)';
     rating.timestamp = new Date();
